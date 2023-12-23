@@ -19,4 +19,4 @@ We designed 20 error pages for your app by using Flutter Framework. It contains 
 
 ![Preview](assets/screenshots/third.png)
 
-[Image copyright](https://github.com/abuanwar072/20-Error-Pages-SwiftUI)
+[Image copyright](https://github.com/Moeed366)
