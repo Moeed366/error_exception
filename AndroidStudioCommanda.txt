@@ -1,0 +1,55 @@
+
+Android Studio, the official IDE for Android development, provides a variety of shortcut keys to enhance productivity. Here are some commonly used shortcut keys:
+
+Basic Navigation:
+
+Ctrl + N (Cmd + O on macOS): Open class.
+Ctrl + Shift + N (Cmd + Shift + O on macOS): Open file.
+Ctrl + E (Cmd + E on macOS): Recent files.
+Ctrl + F12 (Cmd + F12 on macOS): Show/hide file structure popup.
+Code Editing:
+
+Ctrl + Space: Basic code completion.
+Ctrl + Shift + Space: Smart code completion.
+Ctrl + P (Cmd + P on macOS): Parameter info.
+Ctrl + Q (Cmd + J on macOS): Quick documentation lookup.
+Ctrl + / (Cmd + / on macOS): Comment/uncomment with line comment.
+Ctrl + Shift + / (Cmd + Option + / on macOS): Comment/uncomment with block comment.
+Code Navigation:
+
+Ctrl + B (Cmd + B on macOS): Go to declaration or usage.
+Ctrl + F12 (Cmd + F12 on macOS): Show file structure.
+Alt + Right/Left Arrow: Navigate forward/backward.
+Ctrl + Alt + L (Cmd + Option + L on macOS): Reformat code.
+Refactoring:
+
+Ctrl + T (Cmd + T on macOS): Refactor this.
+Ctrl + Alt + M (Cmd + Option + M on macOS): Extract method.
+Shift + F6: Rename.
+Build and Run:
+
+Shift + F10: Run.
+Shift + F9: Debug.
+Ctrl + F5 (Cmd + F5 on macOS): Rerun.
+Ctrl + F10 (Cmd + F10 on macOS): Stop.
+Debugger:
+
+F8: Step over.
+F7: Step into.
+Shift + F8: Step out.
+Ctrl + F8 (Cmd + F8 on macOS): Toggle breakpoint.
+Version Control:
+
+Ctrl + K (Cmd + K on macOS): Commit changes.
+Ctrl + T (Cmd + T on macOS): Update project.
+Alt + 9: Version control tool window.
+Search/Find:
+
+Ctrl + F (Cmd + F on macOS): Find.
+Ctrl + R (Cmd + R on macOS): Replace.
+Double Shift: Search everywhere.
+General IDE:
+
+Ctrl + Shift + A (Cmd + Shift + A on macOS): Find action.
+Ctrl + Alt + S (Cmd + , on macOS): Open settings.
+These are just a few shortcuts; there are many more available. You can also customize shortcuts in Android Studio based on your preferences. To see a full list of keyboard shortcuts, you can refer to the official Android Studio documentation or use the "Keymap Reference" within Android Studio.
