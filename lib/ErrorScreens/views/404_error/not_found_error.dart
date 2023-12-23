@@ -5,6 +5,10 @@ import '../../constants/text_style.dart';
 class NotFound404Error extends StatelessWidget {
   const NotFound404Error({Key? key}) : super(key: key);
 
+
+///------------------------------------------------
+
+
   @override
   Widget build(BuildContext context) {
     return Stack(
